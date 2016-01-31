@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridShading", "GridShading\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridShadingTests", "GridShadingTests\GridShadingTests.csproj", "{76C52EA1-4CB2-4EF3-AF5B-49966674E7FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridShading.IntegrationTests", "GridShading.IntegrationTests\GridShading.IntegrationTests.csproj", "{76C0729D-9717-413D-A6A7-DCBCCCB673FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76C52EA1-4CB2-4EF3-AF5B-49966674E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C52EA1-4CB2-4EF3-AF5B-49966674E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C52EA1-4CB2-4EF3-AF5B-49966674E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C0729D-9717-413D-A6A7-DCBCCCB673FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C0729D-9717-413D-A6A7-DCBCCCB673FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C0729D-9717-413D-A6A7-DCBCCCB673FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C0729D-9717-413D-A6A7-DCBCCCB673FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
